@@ -3,13 +3,13 @@
     {"date":"2020-10-22", "voting_id":237},
     {"date":"2020-10-29", "voting_id":248},
     {"date":"2020-11-05", "voting_id":259},
-    {"date":"2020-11-12", "voting_id":260},
-    {"date":"2020-11-19", "voting_id":271},
-    {"date":"2020-11-26", "voting_id":282},
-    {"date":"2020-12-03", "voting_id":293},
-    {"date":"2020-12-10", "voting_id":294},
-    {"date":"2020-12-17", "voting_id":305},
-    {"date":"2020-12-24", "voting_id":216}
+    {"date":"2020-11-12", "voting_id":263},
+    {"date":"2020-11-19", "voting_id":275},
+    {"date":"2020-11-26", "voting_id":287},
+    {"date":"2020-12-03", "voting_id":300},
+    {"date":"2020-12-10", "voting_id":314},
+    {"date":"2020-12-17", "voting_id":328},
+    {"date":"2020-12-24", "voting_id":343}
   ]
 }
 
